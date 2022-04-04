@@ -1,0 +1,33 @@
+Name: inset_left_frame
+Description: inset_left_frame
+Binding: inset_left_frame1
+Interactive: false
+
+
+Name: inset_right_frame
+Description: inset_right_frame
+Binding: inset_right_frame1
+Interactive: false
+
+Name: inset_both_frame
+Description: inset_both_frame
+Binding: inset_both_frame1
+Interactive: false
+
+
+
+Name: inset_right_square
+Description: inset_right_square
+Binding: inset_right_square1
+Interactive: false
+
+
+Name: inset_left_square
+Description: inset_left_square
+Binding: inset_left_square1
+Interactive: false
+
+Name: inset_both_square
+Description: inset_both_square
+Binding: inset_both_square1
+Interactive: false
